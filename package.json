@@ -1,0 +1,28 @@
+{
+  "name": "csso-brunch",
+  "version": "1.0.0",
+  "description": "CSSO support for brunch.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mistereo/csso-brunch.git"
+  },
+  "keywords": [
+    "csso",
+    "brunch",
+    "brunch-plugin",
+    "csso-brunch"
+  ],
+  "author": "Mistereo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mistereo/csso-brunch/issues"
+  },
+  "homepage": "https://github.com/Mistereo/csso-brunch"
+}

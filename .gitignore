@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+.tmp
+app/bower_components
+test/bower_components
+.DS_Store
+.idea
+public
